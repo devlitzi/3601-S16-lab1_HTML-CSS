@@ -1,5 +1,9 @@
+h1 {
+    color: #654321;
+}
+
 h2 {
-    color: red;
+    color: black;
     font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
 }
 
@@ -12,6 +16,13 @@ img {
     width: 50%;
     margin-left: auto;
     margin-right: auto;
+}
+
+footer {
+    justify-content: center;
+
+    font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
+
 }
 
 .centerText {
