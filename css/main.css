@@ -3,7 +3,13 @@ body {
 }
 
 nav {
-
+    position: fixed;
+    background-color: #e6e600;
+    width: 100%;
+    top: 0%;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    padding:.3%;
 }
 
 ul {
