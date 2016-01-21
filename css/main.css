@@ -6,7 +6,7 @@ nav {
     position: fixed;
     background-color: #e6e600;
     width: 100%;
-    top: 0%;
+    top: 0;
     border-bottom-color: black;
     border-bottom-style: solid;
     padding:.3%;
@@ -21,6 +21,7 @@ ul {
 
 li {
     display: inline;
+    padding: 3%;
 }
 
 h1 {
@@ -36,11 +37,18 @@ p {
     font-family: monospace;
 }
 
-img {
-    display: block;
-    width: 50%;
+figure {
     margin-left: auto;
     margin-right: auto;
+    width: 100%;
+}
+
+img {
+    display: inline;
+    width: 32%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1%;
 }
 
 footer {
