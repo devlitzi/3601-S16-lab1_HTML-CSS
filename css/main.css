@@ -47,7 +47,7 @@ figure {
     width: 100%;
 }
 
-img {
+figure img {
     display: inline;
     width: 30%;
     padding-left: 2%;
